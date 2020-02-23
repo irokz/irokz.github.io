@@ -1,6 +1,6 @@
 ## My Personal Computer
 ---
-I own a personal computer that i built myself, and it is a powerhouse.
+I own a personal computer that I built myself, and it is a powerhouse.
 
 + ### **My Specs**
   + CPU: Intel Core i7-8700K 3.7 GHz 6-Core Processor (soon to be AMD Ryzen 9 3950X 3.5 GHz 16-Core Processor)
@@ -13,6 +13,6 @@ I own a personal computer that i built myself, and it is a powerhouse.
   + Power Supply: EVGA SuperNOVA P2 650 W 80+ Platinum Certified Fully Modular ATX Power Supply
   + Case: NZXT H700i ATX Mid Tower Case
   + Peripherals: Logitech G502 Wired Mouse, Ducky One2 Mechanical Keyboard, Astro A40's
-  
-  [Homepage](index.md)
+  --- 
+[Homepage](index.md)
  
