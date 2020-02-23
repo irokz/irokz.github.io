@@ -10,7 +10,7 @@ A few thing about me:
 
 1. I was in the Navy for four years prior to meeting my wife and she joined in 2017. 
 
-1. The ship is was on was the [USS Boxer LHD-4](https://en.wikipedia.org/wiki/USS_Boxer_(LHD-4))
+1. The ship I was on is the [USS Boxer LHD-4](https://en.wikipedia.org/wiki/USS_Boxer_(LHD-4))
 
 Here's my [Homepage](index.md)
 
