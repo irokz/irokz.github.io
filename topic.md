@@ -2,7 +2,7 @@
 ---
 I own a personal computer that i built myself, and it is a powerhouse.
 
-+ Specs
++ My Specs
  + CPU: Intel Core i7-8700K 3.7 GHz 6-Core Processor (soon to be AMD Ryzen 9 3950X 3.5 GHz 16-Core Processor)
  + AIO CPU Cooler: Cooler Master MasterLiquid ML120L RGB 66.7 CFM Liquid CPU Cooler
  + Motherboard: Asus ROG STRIX Z370-E GAMING ATX LGA1151 Motherboard (soon to be Asus ROG Strix X570-E)
