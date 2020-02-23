@@ -13,4 +13,6 @@ I own a personal computer that i built myself, and it is a powerhouse.
   + Power Supply: EVGA SuperNOVA P2 650 W 80+ Platinum Certified Fully Modular ATX Power Supply
   + Case: NZXT H700i ATX Mid Tower Case
   + Peripherals: Logitech G502 Wired Mouse, Ducky One2 Mechanical Keyboard, Astro A40's
+  
+  [Back Home](index.md)
  
